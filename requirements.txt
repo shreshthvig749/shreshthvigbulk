@@ -1,5 +1,6 @@
 streamlit==1.26.0
-pillow==10.0.0
+pillow==9.5.0
 numpy==1.26.2
 rembg==2.0.67
-streamlit-drawable-canvas==0.10.0
+onnxruntime==1.22.1
+streamlit-drawable-canvas==0.9.3
